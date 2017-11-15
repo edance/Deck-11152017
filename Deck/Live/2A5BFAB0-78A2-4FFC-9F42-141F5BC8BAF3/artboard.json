@@ -32,8 +32,8 @@
     "do_objectID": "47979D39-CFF4-4008-AD24-35D858F6FA96",
     "height": 1080,
     "width": 1920,
-    "x": 16831,
-    "y": -48
+    "x": 671,
+    "y": 3530
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
