@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "497910B8-C68E-4DFE-A3E4-8BA917A3E170",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 40,
+    "x": 0,
+    "y": 588
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DCFF1DE0-C1CE-401F-AF94-A2A32F23928F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "645011D5-DE6A-4E18-B3E2-FBAAECFD7A02"
+    }
+  ],
+  "name": "Rectangle 2 Copy 5 + Rectangle 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

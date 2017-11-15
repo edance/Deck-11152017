@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "2A84B0B7-DB16-412C-932A-62DA70E91FAB",
+  "name": "Launching",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7464126275510204,
+          "green": 0.6801484273817978,
+          "red": 0.4250257983941979
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "2A84B0B7-DB16-412C-932A-62DA70E91FAB",
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "917CCF5B-C294-4A00-A305-97D029455069",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A61ABA4-7AA0-409D-B372-A3D2BEDD787E",
+    "height": 1080,
+    "width": 1920,
+    "x": 671,
+    "y": -48
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2984158A-DE17-41BF-A1A3-92F2A99873C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A8E0BC7-5A9E-4A74-AC97-B52F06B580ED"
+    },
+    {
+      "class": "bitmap",
+      "id": "7F13A050-61F5-45D1-844E-60040EF6481A"
+    },
+    {
+      "class": "bitmap",
+      "id": "DD25C971-CA5E-438F-A5C9-E1BBAF24BEC3"
+    },
+    {
+      "class": "bitmap",
+      "id": "550F9A40-A389-42FA-9409-F135C2207A49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E0DD807-BA0D-46F5-8933-697D03956C76"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D526F4A4-6145-453F-8B70-B091CBFF5707"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81F28E3C-9896-4F46-B7EC-75B008DFF55E"
+    },
+    {
+      "class": "text",
+      "id": "7AFD5DAF-E449-409D-B239-E20CC47CC1AF"
+    },
+    {
+      "class": "bitmap",
+      "id": "2317F4DF-7AC6-416B-B786-C9013729CB8A"
+    },
+    {
+      "class": "text",
+      "id": "5E3936B7-6517-414C-A8C6-3170AC61296D"
+    },
+    {
+      "class": "text",
+      "id": "9F1E3664-1DDE-42A0-B290-2D147A914F29"
+    },
+    {
+      "class": "group",
+      "id": "D6909C26-0C1C-4987-BD02-E9E7A9E63E61"
+    }
+  ],
+  "name": "Tech",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

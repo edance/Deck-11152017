@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "39286F57-DF95-49AB-AAFC-EE4752E71BDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 540,
+    "width": 808,
+    "x": 334,
+    "y": 409
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2A44524A-8D41-4892-9FE4-1D43AE8738FD"
+    },
+    {
+      "class": "bitmap",
+      "id": "E51D7391-0111-489E-B9E5-989C864E0331"
+    },
+    {
+      "class": "bitmap",
+      "id": "1E55D1CC-3A30-43C3-8211-0873D0808BEE"
+    },
+    {
+      "class": "bitmap",
+      "id": "0DC9BF94-E727-46B3-B555-97E91DB5ABF2"
+    },
+    {
+      "class": "bitmap",
+      "id": "FE5867E1-544B-4C43-9090-B135888FEAD4"
+    },
+    {
+      "class": "bitmap",
+      "id": "A53A588C-5504-4436-8984-257223AAEDD2"
+    },
+    {
+      "class": "bitmap",
+      "id": "F995E9B6-3FD6-467B-9745-AC69BCB866FC"
+    },
+    {
+      "class": "text",
+      "id": "D5AF07D5-AE08-481D-A273-A0E7AF11FF63"
+    },
+    {
+      "class": "bitmap",
+      "id": "E58492C9-EA3F-44E5-9290-9055DCBC2D73"
+    },
+    {
+      "class": "text",
+      "id": "D9EB7217-F7D3-4D70-9B02-9C82F3BD7273"
+    },
+    {
+      "class": "text",
+      "id": "D49A81DD-0BCB-4D62-998C-AD050C6C2CFD"
+    },
+    {
+      "class": "text",
+      "id": "93BC5DA9-8E39-44C2-A493-7D380A7CEC68"
+    },
+    {
+      "class": "text",
+      "id": "23D1090F-2CFF-40EF-BD1A-BC6629539979"
+    },
+    {
+      "class": "text",
+      "id": "959B1702-FB92-4699-A9B2-7DC987DB79D3"
+    },
+    {
+      "class": "text",
+      "id": "2C494137-0602-4C5D-85B1-241A4D23FEF2"
+    },
+    {
+      "class": "text",
+      "id": "0BAE6818-7423-49E2-9FE6-D0543E244850"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

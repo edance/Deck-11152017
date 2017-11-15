@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A5100497-C9A3-40CE-B800-2941D26AE762",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 106,
+    "width": 959,
+    "x": 191,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9D521864-24BB-4B9B-AB04-0FAE8DE71F24"
+    },
+    {
+      "class": "text",
+      "id": "4AF1BB43-E12E-4811-85E6-6E771566B987"
+    }
+  ],
+  "name": "Beds Managed & ARR b",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9764705882352941,
+    "red": 0.984313725490196
+  },
+  "do_objectID": "6D5CEDBA-DB6C-40F0-8765-338C1D57DBED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1080,
+    "width": 1920,
+    "x": 4711,
+    "y": -48
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F5B297C7-0C2A-47D6-B063-D858F9E4D96B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D5E2D77-EAC4-4150-A7DA-D7E91EC64EBD"
+    },
+    {
+      "class": "text",
+      "id": "3D334A36-C3B8-4744-A3AB-623EA5DFF4BA"
+    },
+    {
+      "class": "bitmap",
+      "id": "9256B4C6-7056-46AB-A567-E4D9755314FA"
+    },
+    {
+      "class": "text",
+      "id": "431D7396-4E10-44DC-B94F-56F63FBBF727"
+    },
+    {
+      "class": "text",
+      "id": "89D08628-E6B6-4ED5-AAC7-5BC55122F661"
+    },
+    {
+      "class": "group",
+      "id": "F3829C3A-5E75-42D8-B481-8FFF5939EE84"
+    },
+    {
+      "class": "bitmap",
+      "id": "359AADEB-FA99-4323-90D9-56AD052D5380"
+    },
+    {
+      "class": "group",
+      "id": "BE4B89F2-EBAF-4400-9458-DDD2039CF2C7"
+    },
+    {
+      "class": "bitmap",
+      "id": "11C074D8-AE0F-4CCC-A3EE-84E1195548ED"
+    },
+    {
+      "class": "bitmap",
+      "id": "80201EC0-D1E3-4264-8712-C7E7F1468C8B"
+    }
+  ],
+  "name": "Pain Point",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "1C9FACBE-B1B6-454C-AB2D-38E3371433FF",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "70E95662-D9A8-4DE2-B855-742F7BEC9FC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8244884-82F4-4BAE-93FB-D9E17228574A",
+    "height": 300,
+    "width": 325,
+    "x": 456.1093750000009,
+    "y": 309
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DFB3F45A-EA09-4D36-BCE4-D4D995C90985"
+    },
+    {
+      "class": "bitmap",
+      "id": "95D3889F-1F86-439F-9F9F-05F7A95D074D"
+    }
+  ],
+  "name": "2 Evan",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

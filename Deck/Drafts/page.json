@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "do_objectID": "DEE47C91-1DA6-4CEC-AE44-CFEB9C9B63B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -382,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "592C71BE-B198-4D42-8AD2-E03F256156EF"
+    },
+    {
+      "class": "artboard",
+      "id": "D9D7FC24-8F3D-4E3E-A4B2-32EF30BEEA28"
+    },
+    {
+      "class": "artboard",
+      "id": "55517D30-C1F4-4CDF-80A2-A6F5472698C5"
+    },
+    {
+      "class": "artboard",
+      "id": "9722F9ED-770B-4A72-87AC-098923CFA0B3"
+    },
+    {
+      "class": "artboard",
+      "id": "20306A48-A562-437B-9A6A-04C60440C9A4"
+    },
+    {
+      "class": "artboard",
+      "id": "34B2ADD1-2611-4828-B896-1B17483B2A8D"
+    },
+    {
+      "class": "artboard",
+      "id": "FEB06D73-24B4-4B03-858D-FCBD4819B713"
+    },
+    {
+      "class": "artboard",
+      "id": "7EEB8FAD-007A-44A6-9C78-6C187EA0370B"
+    },
+    {
+      "class": "artboard",
+      "id": "72C019B7-32B2-4FD4-9D04-10AFCC334DB1"
+    },
+    {
+      "class": "artboard",
+      "id": "447F4CF8-5570-4AA1-AB26-4A8EF7BD65E6"
+    }
+  ],
+  "name": "Drafts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -230,
+    "guides": [
+    ]
+  }
+}
