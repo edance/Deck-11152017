@@ -36,7 +36,7 @@
     "y": -48
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -77,23 +77,27 @@
     },
     {
       "class": "group",
-      "id": "7A5F9680-28EA-4EBB-8225-5B1E5D48C396"
-    },
-    {
-      "class": "group",
       "id": "70E95662-D9A8-4DE2-B855-742F7BEC9FC9"
     },
     {
-      "class": "text",
-      "id": "64D0D4EF-8C3D-4185-B11D-A39AE4B34095"
+      "class": "group",
+      "id": "91B898EA-9A2A-4C8D-81CC-E7A230B47968"
     },
     {
       "class": "text",
-      "id": "B49098FD-4A20-42D7-A772-299D8073B4E2"
+      "id": "B7F3E137-A1BF-4B85-9594-91EC536C61A8"
     },
     {
       "class": "text",
-      "id": "26146515-6CDD-428E-B486-95D906396785"
+      "id": "F630FCC9-3596-42D4-A1B3-767F34B196BC"
+    },
+    {
+      "class": "text",
+      "id": "9D7A3AA3-D693-49DB-A188-53050728EB7C"
+    },
+    {
+      "class": "text",
+      "id": "8DFC7DBE-6542-4433-97B6-9A9E01B52386"
     },
     {
       "class": "shapeGroup",
@@ -104,7 +108,7 @@
       "id": "275794D0-4A8A-4F14-89D8-4971AA245654"
     }
   ],
-  "name": "Advisors",
+  "name": "Team",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
