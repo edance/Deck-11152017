@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "D4498A00-5886-4D36-B773-1B59AAB048A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 100,
+    "width": 368,
+    "x": 776,
+    "y": 402
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "030C1CCF-7EB5-41B6-A02C-C70D47A54A1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEBE12BF-9D69-4817-BF1B-EE285F897F5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E6F8982-B6F6-4EF9-8129-0AE44E2399DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB27DCB0-CCF6-44D9-9F4C-CC21DFCFBB9C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83B960BF-9E50-46C2-94CE-DCC3A8AA38F2"
+    }
+  ],
+  "name": "rentr-logo-white",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.9
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

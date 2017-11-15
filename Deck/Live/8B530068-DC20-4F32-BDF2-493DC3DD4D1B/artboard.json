@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9450980392156862,
-    "green": 0.9764705882352941,
-    "red": 0.984313725490196
+    "blue": 0.4117647058823529,
+    "green": 0.3450980392156864,
+    "red": 0.007843137254901933
   },
-  "do_objectID": "B6E80A5E-C02F-4141-9F80-ABF7952C0267",
+  "do_objectID": "8B530068-DC20-4F32-BDF2-493DC3DD4D1B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -32,7 +32,7 @@
     "height": 1080,
     "width": 1920,
     "x": 671,
-    "y": -88
+    "y": 9560
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,46 +48,38 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
-      "id": "EC8A4702-3CF6-401E-8EC1-D03A73CFAA5C"
-    },
-    {
-      "class": "group",
-      "id": "27A460FC-8F47-4665-A0E3-421B52393E70"
-    },
-    {
-      "class": "group",
-      "id": "1B07EF0E-64EC-4BCA-AA0D-CEE6B9A611C1"
-    },
-    {
-      "class": "group",
-      "id": "A205DA14-819A-419B-8D72-5D159678A680"
-    },
-    {
-      "class": "group",
-      "id": "F708A591-82D3-4DB3-A089-4596BF61A4CC"
-    },
-    {
-      "class": "group",
-      "id": "D8037855-A05C-439A-B99F-18AD3411EC8C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EEE98DFD-8603-419F-A8F9-35BC7F57FD94"
-    },
-    {
-      "class": "text",
-      "id": "2398207B-4EF9-48BD-B5A8-79593AEC8DC2"
+      "id": "64D0A8BD-0A61-48A4-A3EE-03B9B2EAEF73"
     },
     {
       "class": "bitmap",
-      "id": "7B074E15-3ACD-4E2A-A720-23B4FFDEF21A"
+      "id": "E3418F77-F0E2-4083-BBE5-F50BB227647B"
+    },
+    {
+      "class": "bitmap",
+      "id": "29748BB4-68A2-4DBA-AA6D-EFA3320A4817"
+    },
+    {
+      "class": "group",
+      "id": "FC12A829-96BA-431F-9C16-484567C66C2C"
+    },
+    {
+      "class": "text",
+      "id": "E4F2F1DD-B6E1-447A-AEB1-2D9FF105992A"
+    },
+    {
+      "class": "text",
+      "id": "0ABC3BF3-420C-4D96-854A-14C7E630A3DF"
+    },
+    {
+      "class": "group",
+      "id": "D4498A00-5886-4D36-B773-1B59AAB048A0"
     }
   ],
-  "name": "Competition",
+  "name": "Rentr",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -107,7 +99,6 @@
           "green": 1,
           "red": 1
         },
-        "do_objectID": "BEBD00A9-B2C6-4B92-9D00-9A2A4483A88C",
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
