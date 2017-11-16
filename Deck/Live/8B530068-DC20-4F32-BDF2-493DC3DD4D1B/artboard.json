@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
@@ -79,7 +79,7 @@
       "id": "D4498A00-5886-4D36-B773-1B59AAB048A0"
     }
   ],
-  "name": "Rentr",
+  "name": "Rentr Hero",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
