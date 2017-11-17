@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 671,
-    "y": 22045
+    "x": 12786,
+    "y": -1168
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -69,10 +69,6 @@
     {
       "class": "text",
       "id": "BF4C4709-A511-4459-82FC-65275B316B88"
-    },
-    {
-      "class": "text",
-      "id": "985AA872-A7FA-4E4A-B932-504FD7A52219"
     },
     {
       "class": "group",
