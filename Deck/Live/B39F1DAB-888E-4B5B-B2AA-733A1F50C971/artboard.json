@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 671,
-    "y": 18257
+    "x": 10363,
+    "y": -1294
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
