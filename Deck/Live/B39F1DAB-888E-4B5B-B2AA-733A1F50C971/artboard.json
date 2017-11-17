@@ -35,7 +35,7 @@
     "y": -1294
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -71,28 +71,8 @@
       "id": "D0BA3259-9583-464E-AE18-EAEEC13DF90D"
     },
     {
-      "class": "text",
-      "id": "52D0C578-AC2E-4DF0-84F0-8AF883E00202"
-    },
-    {
-      "class": "group",
-      "id": "3AA1AC59-5521-425A-9840-2AE9DF352209"
-    },
-    {
       "class": "bitmap",
-      "id": "CE053673-FEE1-49D1-A280-EA0BB9BC9EAB"
-    },
-    {
-      "class": "group",
-      "id": "A0741D01-3546-4119-B000-661548FE486F"
-    },
-    {
-      "class": "bitmap",
-      "id": "65A1A6A9-BB23-469C-B310-4B1BD81CAA7A"
-    },
-    {
-      "class": "bitmap",
-      "id": "58D128CE-DA2F-45D2-8B51-D8084957A92D"
+      "id": "B48584BC-1095-46F4-8776-AB82AAEF4617"
     }
   ],
   "name": "Airbnb What We Bring",
