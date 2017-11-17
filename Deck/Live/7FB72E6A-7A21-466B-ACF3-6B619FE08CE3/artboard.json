@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9764705882352941,
+    "red": 0.984313725490196
+  },
+  "do_objectID": "7FB72E6A-7A21-466B-ACF3-6B619FE08CE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1080,
+    "width": 1920,
+    "x": 671,
+    "y": 13178
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F9686D3E-04FC-479F-9188-B4D727828D5B"
+    },
+    {
+      "class": "bitmap",
+      "id": "0FE0030A-E967-4D64-BADC-637228DF4225"
+    },
+    {
+      "class": "group",
+      "id": "FFCB269B-4966-44D2-AE1A-DE61B78BF614"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62F94BD2-BB4E-401D-B12B-84547BBAA1AA"
+    },
+    {
+      "class": "text",
+      "id": "98977813-F6CB-4861-AD4D-5D9FADC7DEC1"
+    },
+    {
+      "class": "bitmap",
+      "id": "91B46ECE-8D9C-4327-ADC5-F8DBFC959EAC"
+    },
+    {
+      "class": "bitmap",
+      "id": "96BA21D2-FDCD-4EAF-88D0-837A651ADE4C"
+    }
+  ],
+  "name": "WeWork Vision",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

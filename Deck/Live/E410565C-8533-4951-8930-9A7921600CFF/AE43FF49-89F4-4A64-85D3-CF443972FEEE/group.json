@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "AE43FF49-89F4-4A64-85D3-CF443972FEEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 540,
+    "width": 808,
+    "x": 596,
+    "y": 362
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E4B422C7-701F-4839-A71A-20E7108B9E31"
+    },
+    {
+      "class": "bitmap",
+      "id": "C17A7F2C-E026-4F39-9215-0249E13B2933"
+    },
+    {
+      "class": "bitmap",
+      "id": "09AD34FF-10F4-4361-90D3-765A8380F6F4"
+    },
+    {
+      "class": "bitmap",
+      "id": "45FF0973-212F-4FF9-B617-A68900D73C33"
+    },
+    {
+      "class": "bitmap",
+      "id": "881F8507-1549-454A-8D73-CC1367A3BE23"
+    },
+    {
+      "class": "bitmap",
+      "id": "B0D058CA-DCB3-4FE8-B9AA-29143632F385"
+    },
+    {
+      "class": "bitmap",
+      "id": "26D51CC5-271E-4D5D-9D81-213B5C331DE8"
+    },
+    {
+      "class": "text",
+      "id": "ECA45639-B18D-4615-B61E-E57F5E849F6C"
+    },
+    {
+      "class": "bitmap",
+      "id": "94065C18-FC1E-463F-8929-4C5FA832A4BD"
+    },
+    {
+      "class": "text",
+      "id": "6F36919D-C750-4A8D-8CB1-E4CDCEC0574D"
+    },
+    {
+      "class": "text",
+      "id": "8C792996-3C32-40B4-8F05-917B30B435C1"
+    },
+    {
+      "class": "text",
+      "id": "AA5694A6-B845-405F-B3C4-4D4693F6A730"
+    },
+    {
+      "class": "text",
+      "id": "56B7EDC7-552C-4408-8282-2CA65B34B91B"
+    },
+    {
+      "class": "text",
+      "id": "5F729721-54FF-446C-807B-753889B7FE55"
+    },
+    {
+      "class": "text",
+      "id": "DA05D52D-ACD9-4C6F-B376-103F254A2EE1"
+    },
+    {
+      "class": "text",
+      "id": "472B6C2C-3311-4AD3-B5CD-0C3FCB51AF85"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

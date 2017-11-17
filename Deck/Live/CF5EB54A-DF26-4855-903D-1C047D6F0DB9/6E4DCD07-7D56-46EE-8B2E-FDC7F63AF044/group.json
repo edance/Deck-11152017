@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6E4DCD07-7D56-46EE-8B2E-FDC7F63AF044",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 593,
+    "width": 999,
+    "x": 870,
+    "y": 183
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "346DD0CC-7D00-4CA4-8CAB-39426A6F7143"
+    },
+    {
+      "class": "bitmap",
+      "id": "FF3C7FB3-571B-43DF-8F36-CBA312B57930"
+    }
+  ],
+  "name": "PASTE SCREENSHOT IN HERE",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

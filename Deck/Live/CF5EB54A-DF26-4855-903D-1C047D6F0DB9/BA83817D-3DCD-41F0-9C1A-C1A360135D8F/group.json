@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "BA83817D-3DCD-41F0-9C1A-C1A360135D8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 646,
+    "width": 999,
+    "x": 868,
+    "y": 139
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B6F96E7B-5A9B-4FAC-99C6-95E9D2A9482B"
+    },
+    {
+      "class": "group",
+      "id": "A72B80AA-55F9-48C4-8109-392450BD56B2"
+    },
+    {
+      "class": "group",
+      "id": "CA07E6B9-96F4-4CF6-BC6C-E3D85E3551C7"
+    },
+    {
+      "class": "group",
+      "id": "63372AAD-B8B0-462B-B11F-EA982CDD01DC"
+    },
+    {
+      "class": "group",
+      "id": "095CFE14-F317-418E-B39F-70F43133DAD1"
+    },
+    {
+      "class": "group",
+      "id": "4F5085D7-C7CE-4365-8596-013DE82DC861"
+    },
+    {
+      "class": "group",
+      "id": "BBA7A5B9-097A-4992-B32E-D4022198F7B3"
+    },
+    {
+      "class": "group",
+      "id": "23972987-0DC2-438C-9F42-69890FCB1F29"
+    }
+  ],
+  "name": "Chrome window",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

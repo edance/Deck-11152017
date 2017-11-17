@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "FFCB269B-4966-44D2-AE1A-DE61B78BF614",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 540,
+    "width": 808,
+    "x": 334,
+    "y": 409
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "54714811-E106-469A-B451-71A042DFF685"
+    },
+    {
+      "class": "bitmap",
+      "id": "1A3E04BB-EAD5-4AB5-A455-A53B2E1057B2"
+    },
+    {
+      "class": "bitmap",
+      "id": "A4814120-27B6-4C0A-8897-A405B0DCFFBE"
+    },
+    {
+      "class": "bitmap",
+      "id": "56AA0603-7AA7-4D4F-9330-DE9CDF813C0F"
+    },
+    {
+      "class": "bitmap",
+      "id": "F6101DEB-A367-49BD-ACF4-59431C4A0FB2"
+    },
+    {
+      "class": "bitmap",
+      "id": "D660BC00-4168-4373-9481-849F8847D50C"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB4470DC-2508-4F33-B2F6-9749E3AE8246"
+    },
+    {
+      "class": "text",
+      "id": "C32D2A54-B37D-4D90-9CBE-0422AC0A1732"
+    },
+    {
+      "class": "bitmap",
+      "id": "62B6629B-CD06-4950-B119-06907FC046EA"
+    },
+    {
+      "class": "text",
+      "id": "86BC31F2-402C-4B41-AA94-312B91F90DB5"
+    },
+    {
+      "class": "text",
+      "id": "B7EE7295-2582-42D2-BB72-706469EB72AE"
+    },
+    {
+      "class": "text",
+      "id": "2EE10C0B-A1B8-447E-9253-02F75474CF85"
+    },
+    {
+      "class": "text",
+      "id": "AE4286D6-0DD3-4C66-A021-B74D83821B55"
+    },
+    {
+      "class": "text",
+      "id": "841B6408-F348-45B4-BBD7-ADF4493D4FDF"
+    },
+    {
+      "class": "text",
+      "id": "BF81447A-ED98-4753-AD78-F3DF13084318"
+    },
+    {
+      "class": "text",
+      "id": "16B412EC-1264-4454-B680-DFA9804C8B7B"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

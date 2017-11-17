@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "44BBC1FF-2514-474E-8E0A-51C111EAEB57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1080,
+    "width": 1920,
+    "x": 3094,
+    "y": 1118
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "544A8949-DA73-4A8E-ADFE-D51567CFB31B"
+    },
+    {
+      "class": "bitmap",
+      "id": "CF31EB1F-43F4-4DD9-AAF5-644EB3D2AACE"
+    },
+    {
+      "class": "bitmap",
+      "id": "4868517A-EAF4-4F9B-8EF7-7A0C0BDF3193"
+    },
+    {
+      "class": "bitmap",
+      "id": "EBD2ED5D-87DD-4125-8470-2449E64B9042"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B600A2B-B67D-4D5A-B0AA-E040FD1B5E55"
+    },
+    {
+      "class": "bitmap",
+      "id": "F5F033D2-E3B3-42C3-80B4-24C8316C0C10"
+    },
+    {
+      "class": "bitmap",
+      "id": "19FA8998-BA5A-4945-933B-6EAA06949916"
+    },
+    {
+      "class": "bitmap",
+      "id": "21BB92D2-C286-4187-B763-B4821C41BAA2"
+    },
+    {
+      "class": "text",
+      "id": "9DE83FF7-F7F8-491E-A629-648491637126"
+    },
+    {
+      "class": "text",
+      "id": "931141A6-8A61-4164-A5C0-8C6029A7C798"
+    }
+  ],
+  "name": "Maintenance",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

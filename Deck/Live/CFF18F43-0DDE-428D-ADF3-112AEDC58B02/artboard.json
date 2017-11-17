@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9764705882352941,
+    "red": 0.984313725490196
+  },
+  "do_objectID": "CFF18F43-0DDE-428D-ADF3-112AEDC58B02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1080,
+    "width": 1920,
+    "x": 671,
+    "y": 20754
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "A99D6075-83BE-4BE8-89A8-9669CC1D7FC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE06A7C9-6D20-4FB7-840E-672D480F4DA7"
+    },
+    {
+      "class": "text",
+      "id": "8453B1F5-C669-419B-A0C1-8D68D17D3800"
+    },
+    {
+      "class": "bitmap",
+      "id": "62DE4A05-067D-4699-8263-3476BA7BC001"
+    },
+    {
+      "class": "text",
+      "id": "E57136AC-A824-421F-AF34-226FA1011F66"
+    },
+    {
+      "class": "text",
+      "id": "819782E9-BEDC-4AFA-ACEE-DADC7E3E6F3D"
+    },
+    {
+      "class": "group",
+      "id": "2086A221-9243-44B4-9637-F77D9538596C"
+    },
+    {
+      "class": "bitmap",
+      "id": "EC7ACA90-33C1-47DE-8333-540BBCF1427C"
+    },
+    {
+      "class": "group",
+      "id": "345901F1-CFC7-4C0C-A1EB-D114457541A9"
+    },
+    {
+      "class": "bitmap",
+      "id": "0BE9C915-A2B6-4297-AE50-CC6E7076A4D4"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C290838-FEC5-4B67-977A-CC7ABD1A6932"
+    }
+  ],
+  "name": "Facebook Vision",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
