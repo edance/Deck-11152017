@@ -16,14 +16,14 @@
     "height": 660,
     "width": 1138,
     "x": 113.7771428571414,
-    "y": 133.6301425148469
+    "y": 132.6301425148469
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",

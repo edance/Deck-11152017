@@ -31,7 +31,7 @@
     "height": 1080,
     "width": 1920,
     "x": 671,
-    "y": 5942
+    "y": 10340
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

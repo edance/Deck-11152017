@@ -30,11 +30,11 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 7940,
-    "y": -1294
+    "x": 671,
+    "y": 6552
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,11 +47,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
       "id": "E9A64A8A-5B18-4758-BA68-E4699A1942F1"
+    },
+    {
+      "class": "bitmap",
+      "id": "B916F6E7-DD75-4F6D-AF71-B5A7AA59803B"
+    },
+    {
+      "class": "text",
+      "id": "09A96BEB-8242-474A-AA87-11B725D3EA1D"
+    },
+    {
+      "class": "bitmap",
+      "id": "B30E3BD1-0A5B-47F3-AD16-4BBFCDF69E48"
     },
     {
       "class": "shapeGroup",
@@ -64,10 +76,6 @@
     {
       "class": "bitmap",
       "id": "B493D65E-650D-47EA-BB49-A51EEE57FE58"
-    },
-    {
-      "class": "text",
-      "id": "81BABDD9-A696-4706-ADE7-EE0A9544F020"
     },
     {
       "class": "group",
@@ -90,7 +98,7 @@
       "id": "11826773-882F-40E0-BE5A-51D9C72A3BB3"
     }
   ],
-  "name": "WeWork What We Bring",
+  "name": "WeWork + Cribspot",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

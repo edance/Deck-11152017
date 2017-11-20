@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 8.839798388160446,
     "width": 134.5714285714286,
-    "x": 776.3371428571427,
+    "x": 2.33714285714268,
     "y": 60.99460887830708
   },
   "hasClickThrough": false,
@@ -24,7 +24,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "layers": [
     {

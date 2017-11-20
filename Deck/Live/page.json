@@ -34,62 +34,6 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "C707FC1E-A803-4609-876C-AFE59B517A15"
-    },
-    {
-      "class": "artboard",
-      "id": "DA8EA053-A431-4E3D-96A9-B0CDECA5DDFD"
-    },
-    {
-      "class": "artboard",
-      "id": "296F7008-FF7E-410F-B9BE-34FFDED114D4"
-    },
-    {
-      "class": "artboard",
-      "id": "B3D416FA-06AF-42F9-8089-C430FB0EBD5B"
-    },
-    {
-      "class": "artboard",
-      "id": "9B4B3B4B-9629-4FA6-A4C5-8EC3D98D72B7"
-    },
-    {
-      "class": "artboard",
-      "id": "5DE0FECD-9297-4A0D-943B-79A6D4BB3EA5"
-    },
-    {
-      "class": "artboard",
-      "id": "B39F1DAB-888E-4B5B-B2AA-733A1F50C971"
-    },
-    {
-      "class": "artboard",
-      "id": "4E7E70BD-A849-4BD0-B354-2CBD41DC415E"
-    },
-    {
-      "class": "artboard",
-      "id": "B762E92D-8402-4C4D-AE3B-B2B72FA10750"
-    },
-    {
-      "class": "artboard",
-      "id": "D98108D2-8B8F-4618-AA13-CA569D15E406"
-    },
-    {
-      "class": "artboard",
-      "id": "EDD49D6F-5D0C-455B-AAAF-AE4E1C2DB755"
-    },
-    {
-      "class": "artboard",
-      "id": "31126CA7-15C5-4754-A1B4-95802C0CE059"
-    },
-    {
-      "class": "artboard",
-      "id": "F41819A7-B2E7-4076-A43A-A3A5ADD50CFC"
-    },
-    {
-      "class": "artboard",
-      "id": "8B530068-DC20-4F32-BDF2-493DC3DD4D1B"
-    },
-    {
-      "class": "artboard",
       "id": "44BBC1FF-2514-474E-8E0A-51C111EAEB57"
     },
     {
@@ -110,10 +54,6 @@
     },
     {
       "class": "artboard",
-      "id": "C64F1E64-3EBE-4D0A-91E1-07F045D86462"
-    },
-    {
-      "class": "artboard",
       "id": "4A637AFF-0180-414B-B044-FF67B8191984"
     },
     {
@@ -127,6 +67,18 @@
     {
       "class": "artboard",
       "id": "2A5BFAB0-78A2-4FFC-9F42-141F5BC8BAF3"
+    },
+    {
+      "class": "artboard",
+      "id": "D98108D2-8B8F-4618-AA13-CA569D15E406"
+    },
+    {
+      "class": "artboard",
+      "id": "EDD49D6F-5D0C-455B-AAAF-AE4E1C2DB755"
+    },
+    {
+      "class": "artboard",
+      "id": "B3D9432E-674B-4BAC-ABF2-C07A6F0F12C3"
     },
     {
       "class": "artboard",
@@ -150,7 +102,7 @@
     },
     {
       "class": "artboard",
-      "id": "8699B0B1-5CEC-4C8B-BF6F-216FDFBBB8E0"
+      "id": "31126CA7-15C5-4754-A1B4-95802C0CE059"
     }
   ],
   "name": "Live",

@@ -16,14 +16,14 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "3C7CBDD3-E80B-4FB8-B8EC-5C4BB4FAC2D4",
-    "height": 392.0000000000002,
-    "width": 588,
-    "x": -96,
-    "y": -66
+    "height": 662,
+    "width": 540,
+    "x": 0,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/de2729a5cebc2bfd8e49d937be215853a76dae0e",
+    "_ref": "images/3948696d2919d9528b2ff3dfa4b37363cd7fa365",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,

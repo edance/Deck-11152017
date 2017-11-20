@@ -30,8 +30,8 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 7940,
-    "y": -2500
+    "x": 671,
+    "y": 5176
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -74,8 +74,8 @@
       "id": "DFBC6CF0-97E8-4E92-8769-96926D1619D5"
     },
     {
-      "class": "shapeGroup",
-      "id": "1623C9C5-E7E0-4CD8-ACF3-17D4B12F035D"
+      "class": "bitmap",
+      "id": "346A569B-58CC-49EB-903C-B4726B456FA6"
     },
     {
       "class": "text",
@@ -86,7 +86,7 @@
       "id": "0A4BDC2A-80F1-446E-8F13-ADD6AF392690"
     }
   ],
-  "name": "WeWork Vision 2",
+  "name": "WeLive - The Challenge",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

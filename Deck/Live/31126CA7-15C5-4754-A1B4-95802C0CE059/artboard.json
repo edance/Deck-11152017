@@ -5,7 +5,7 @@
     "alpha": 1,
     "blue": 0.4117647058823529,
     "green": 0.3450980392156864,
-    "red": 0.007843137254901933
+    "red": 0.00784313725490193
   },
   "do_objectID": "31126CA7-15C5-4754-A1B4-95802C0CE059",
   "exportOptions": {
@@ -30,8 +30,8 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 7940,
-    "y": -3706
+    "x": 671,
+    "y": -3926
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",

@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "89599DD6-5FD6-4AE4-B80A-6EEE439D7296",
-    "height": 646,
-    "width": 911,
-    "x": 341.4313000616148,
+    "height": 70,
+    "width": 137,
+    "x": 1115.431300061615,
     "y": 0
   },
   "hasClickThrough": false,
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -33,30 +33,6 @@
     {
       "class": "text",
       "id": "435EAB0C-2799-4AD3-9A30-57B111354D91"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1002508F-C701-43A2-8F1B-33A9282BE106"
-    },
-    {
-      "class": "text",
-      "id": "7B413225-F763-4887-8048-8139097E21EF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F415235F-F1C5-48A8-A5BE-D36BC75B9FC1"
-    },
-    {
-      "class": "text",
-      "id": "3F06943B-6903-40D5-9F08-A58AB76FED8D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0D2EB3F0-489C-41DC-9ACB-2C53B51183C2"
-    },
-    {
-      "class": "text",
-      "id": "47C36B4A-6F00-456D-B72E-251460BF7E70"
     }
   ],
   "name": "Rectangle 15 + $540K",
