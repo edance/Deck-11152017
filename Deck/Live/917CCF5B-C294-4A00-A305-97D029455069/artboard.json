@@ -14,8 +14,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
+        "fileFormat": "jpg",
         "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
@@ -36,7 +35,7 @@
     "y": 4736
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
