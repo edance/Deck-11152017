@@ -21,10 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "916528C0-EA6D-477E-8808-096F73A85953",
-    "height": 54,
-    "width": 391,
-    "x": 0,
+    "height": 108,
+    "width": 394,
+    "x": -1.5,
     "y": 14
   },
   "glyphBounds": "{{1, 10}, {388, 35}}",
